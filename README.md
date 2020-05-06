@@ -1,1 +1,1 @@
-# This is a test repo to test jenkins
+# This is a test repository to test jenkins
